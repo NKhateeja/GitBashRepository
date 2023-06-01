@@ -6,6 +6,7 @@ public class TestScript1Test {
 		
 		//welcome to script one
 		System.out.println("script 1");
+		//thank you by github
 	}
 
 }
